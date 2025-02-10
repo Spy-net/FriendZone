@@ -1,6 +1,6 @@
 <h1 align="center" id="title">FRIENDZONE 🚀</h1>
 
-<p align="center"><img src="https://via.placeholder.com/1200x400?text=FriendZone+Collaboration+Platform" alt="project-image"></p>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:624/1*KWN8zq5vpNx-cJPLVhoyVw.png" alt="project-image"></p>
 
 <h1>📝 Overview</h1>
 <p>FriendZone is a <strong>collaborative project platform</strong> designed exclusively for students, offering a structured and distraction-free environment for seamless project collaborations. Unlike conventional freelancer platforms, FriendZone focuses on <strong>student-driven projects</strong> to enhance teamwork and productivity.</p>
