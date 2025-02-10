@@ -1,4 +1,4 @@
-# ![FriendZone Banner](https://drive.google.com/file/d/1I2q8DqnUo1xSIh9RIZVU1lE3mAXe0stQ/view?usp=sharing)
+# ![FriendZone Banner](https://miro.medium.com/v2/resize:fit:624/1*KWN8zq5vpNx-cJPLVhoyVw.png)
 
 # FriendZone - Project Collaboration Platform 🚀
 
